@@ -1,7 +1,7 @@
 // --- COUNTDOWN TIMER ---
 
-// SET YOUR WEDDING DATE HERE
-const weddingDate = new Date("December 7, 2024 17:00:00").getTime();
+// SET YOUR WEDDING DATE HERE - This is the updated line
+const weddingDate = new Date("September 5, 2026 12:30:00").getTime();
 
 // Update the countdown every 1 second
 const countdownFunction = setInterval(function() {
